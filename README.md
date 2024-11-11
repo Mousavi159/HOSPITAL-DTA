@@ -1,4 +1,4 @@
-# HOSPITAL-DTA
+# HOSPITAL_SIMULATION-DTA
 # Title
 Patient flow using exponetial distribution in simpy
 
