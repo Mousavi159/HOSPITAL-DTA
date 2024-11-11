@@ -1,10 +1,9 @@
 # HOSPITAL-DTA
-Title
-
+# Title
 Patient flow using exponetial distribution in simpy
 
-Requirement
+# Requirement
 
 pip install simpy
-
+#
 pip install matplotlib
